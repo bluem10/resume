@@ -1,0 +1,135 @@
+div {
+    border-radius: 10px;
+    letter-spacing: 1px;
+    background-color: #3A1C78;
+    margin-top: 12px;
+    margin-left: 25px;
+    margin-right: 25px;
+
+}
+#top_side {
+    color: #8B839A;
+    text-align: center;
+    margin-top: 12px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 5px;
+    font-family: sans-serif;
+}
+
+body {
+margin: 0;
+padding: 0;
+background-color: #9999CC;
+}
+
+#mb{
+  margin-top: 3px;
+  margin-bottom: 5px;
+}
+figure{
+  margin-left: 70px;
+}
+#name{
+margin-right: 200px;
+}
+#city{
+margin-right: 200px;
+}
+#num{
+margin-right: 200px;
+}
+#linkedin{
+margin-right: 8px;
+}
+#github{
+margin-right: 200px;
+}
+#prime{
+  font-family: 'Architects Daughter', cursive;
+}
+#primeUX{
+  color:#666699;
+}
+h1 {
+margin: 0;
+font-family: 'Rock Salt', cursive;
+}
+
+h2 {
+margin: 0 0 40px 0;
+font-family: 'Monoton', cursive;
+color: #8B839A;;
+}
+h3 {
+  font-family: 'Neucha', cursive;
+  color: #6E627E;
+}
+h4 {
+  font-family: 'Bree Serif', serif;
+  color: #6E627E;
+}
+#eduHeader{
+  display: inline;
+}
+#eduSpace{
+  display: inline;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+p {
+  color: #8B839A;
+}
+li {
+  color: #8B839A;
+}
+
+i {
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+
+#workHistory {
+     letter-spacing: 1px;
+     text-align: left;
+     background-color: #22024C;
+     border: none;
+     font-family: sans-serif;
+     font-size: 12pt;
+
+}
+#containment {
+    margin-right: 25px;
+    margin-top: 5px;
+    padding: 10px 150px 15px 75px;
+    background-color: #22024C;
+    font-family: sans-serif;
+
+}
+#feet {
+    color: lightgrey;
+}
+#skills {
+     letter-spacing: 1px;
+     text-align: left;
+     background-color: #22024C;
+     border: none;
+     font-family: sans-serif;
+     font-size: 12pt;
+}
+#education {
+     letter-spacing: 1px;
+     text-align: left;
+     background-color: #22024C;
+     border: none;
+     font-family: sans-serif;
+     font-size: 12pt;
+     margin-bottom: 10px;
+}
+#volunteer {
+     letter-spacing: 1px;
+     text-align: left;
+     background-color: #22024C;
+     border: none;
+     font-family: sans-serif;
+     font-size: 12pt;
+}
